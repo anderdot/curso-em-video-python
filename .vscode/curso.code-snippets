@@ -21,24 +21,10 @@
 		"prefix": "curso",
 		"body": [
 			"# Desafio 000: ",
-			"from cores import cor",
+			"from rotinas import var, titulo",
 			"",
 			"numero = int(input('Digite um número: '))",
 			""
-		],
-		"description": "Acelerando o curso do guanabara"
-	},
-
-	"Curso em Video1": {
-		"scope": "python",
-		"prefix": "printFormat",
-		"body": [
-			"print('{1}{2}{0} {1}{3}{0}.'.format(",
-			"    cor.reset,",
-			"    cor.verde,",
-			"    $1,",
-			"    $2",
-			"))"
 		],
 		"description": "Acelerando o curso do guanabara"
 	}
